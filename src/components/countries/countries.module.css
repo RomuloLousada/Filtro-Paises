@@ -1,0 +1,10 @@
+.flexContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flexContainer > div {
+  flex: 0 0 20%;
+  height: 100px;
+  text-align: center;
+}

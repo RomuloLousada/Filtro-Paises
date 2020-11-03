@@ -1,3 +1,7 @@
+# Filtro de Países - React
+
+Filtro de Países criado em React aplicando conhecimentos do Curso.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,19 @@
+.imgContainer {
+  display: inline-block;
+  height: 75px;
+  vertical-align: middle;
+}
+
+.imgSize {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  vertical-align: middle;
+}
+
+.helper {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
